@@ -3,63 +3,63 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Link Tree</title>
+    <meta http-equiv="refresh" content="0; url=https://ryancraighead.github.io/">
+    <title>Ryan Craighead</title>
     <style>
+        :root {
+            color-scheme: dark;
+            --bg: #111310;
+            --ink: #f2ecdf;
+            --muted: #bab1a2;
+            --accent: #67d6a3;
+            --line: rgba(242, 236, 223, 0.18);
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
         body {
-            font-family: Arial, sans-serif;
-            background-color: #f0f0f0;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            height: 100vh;
+            min-height: 100svh;
             margin: 0;
+            display: grid;
+            place-items: center;
+            padding: 24px;
+            background: var(--bg);
+            color: var(--ink);
+            font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
         }
-        .profile {
-            text-align: center;
-            margin-bottom: 30px;
+
+        main {
+            width: min(100%, 560px);
+            padding: 32px;
+            border: 1px solid var(--line);
+            border-radius: 8px;
+            background: rgba(255, 255, 255, 0.04);
         }
-        .profile img {
-            width: 100px;
-            height: 100px;
-            border-radius: 50%;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+
+        h1 {
+            margin: 0 0 12px;
+            font-size: clamp(2rem, 8vw, 4rem);
+            line-height: 1;
         }
-        .profile h1 {
-            margin-top: 10px;
+
+        p {
+            margin: 0 0 22px;
+            color: var(--muted);
         }
-        .link-container {
-            width: 100%;
-            max-width: 300px;
-        }
-        .link {
-            display: block;
-            background: #ffffff;
-            color: #333333;
-            padding: 15px 20px;
-            margin: 5px 0;
-            text-align: center;
-            text-decoration: none;
-            border-radius: 5px;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
-            font-weight: bold;
-        }
-        .link:hover {
-            background-color: #e8e8e8;
+
+        a {
+            color: var(--accent);
+            font-weight: 700;
         }
     </style>
 </head>
 <body>
-    <div class="profile">
-        <img src="profile-placeholder.png" alt="Profile Picture">
-        <h1>@ryancraighead</h1>
-    </div>
-    <div class="link-container">
-        <a href="https://link-to-your-first-resource.com" class="link">My Portfolio</a>
-        <a href="https://link-to-your-second-resource.com" class="link">Blog</a>
-        <a href="https://link-to-your-third-resource.com" class="link">Projects</a>
-        <a href="https://link-to-your-fourth-resource.com" class="link">Contact</a>
-        <a href="https://link-to-your-fifth-resource.com" class="link">Buy Me a Coffee</a>
-    </div>
+    <main>
+        <h1>Ryan Craighead</h1>
+        <p>Redirecting to the portfolio site.</p>
+        <a href="https://ryancraighead.github.io/">Open ryancraighead.github.io</a>
+    </main>
 </body>
 </html>
