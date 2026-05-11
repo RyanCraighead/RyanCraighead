@@ -15,9 +15,8 @@ I like small, direct software with a clear job: tools that connect systems, remo
 
 - [ntfy-mcp-server](https://github.com/RyanCraighead/ntfy-mcp-server) - Tiny stdio MCP server for sending phone notifications through ntfy.
 - [aap](https://github.com/RyanCraighead/aap) - Agentic App Protocol, a communication standard for agent-like software.
-- [white-knuckle-save-editor](https://github.com/RyanCraighead/white-knuckle-save-editor) - Desktop save editor with JSON editing, snapshots, restores, and diff viewing.
 - [sol-cesto-local-patcher](https://github.com/RyanCraighead/sol-cesto-local-patcher) - Local patching utility for Sol Cesto workflows.
-- [agent-space](https://github.com/RyanCraighead/agent-space) - Public JavaScript workspace for agent-facing experiments.
+- [wiki-js-mcp-ryan](https://github.com/RyanCraighead/wiki-js-mcp-ryan) - Model Context Protocol server for Wiki.js with hierarchical documentation and Docker setup.
 
 ## Links
 
