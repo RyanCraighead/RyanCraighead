@@ -20,5 +20,5 @@ I like small, direct software with a clear job: tools that connect systems, remo
 
 ## Links
 
-- Portfolio: [ryancraighead.github.io](https://ryancraighead.github.io/)
+- Portfolio: 
 - Repositories: [github.com/RyanCraighead?tab=repositories](https://github.com/RyanCraighead?tab=repositories)
