@@ -13,6 +13,7 @@ I like small, direct software with a clear job: tools that connect systems, remo
 
 ## Selected Public Work
 
+- [WorldWarVR](https://github.com/RyanCraighead/WorldWarVR-Releases) - A standalone VR mod for Call of Duty: World at War.
 - [ntfy-mcp-server](https://github.com/RyanCraighead/ntfy-mcp-server) - Tiny stdio MCP server for sending phone notifications through ntfy.
 - [aap](https://github.com/RyanCraighead/aap) - Agentic App Protocol, a communication standard for agent-like software.
 - [sol-cesto-local-patcher](https://github.com/RyanCraighead/sol-cesto-local-patcher) - Local patching utility for Sol Cesto workflows.
