@@ -6,6 +6,7 @@ I like small, direct software with a clear job: tools that connect systems, remo
 
 ## Current Focus
 
+- VR mods, mainly flat-screen-to-VR conversions.
 - MCP servers, agent workflows, and app protocol experiments
 - TypeScript interfaces and lightweight web products
 - Desktop utilities, save editors, and game patching tools
